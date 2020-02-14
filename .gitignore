@@ -100,3 +100,4 @@ nbdist/
 .nb-gradle/
 
 # End of https://www.gitignore.io/api/intellij,netbeans
+/GuideAlimentaire/target/
