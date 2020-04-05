@@ -8,6 +8,9 @@
  *
  * @author Brandon Tardif
  */
+
+import org.jpl7.Query;
+
 public class FenetrePrincipale extends javax.swing.JFrame {
 
     /**

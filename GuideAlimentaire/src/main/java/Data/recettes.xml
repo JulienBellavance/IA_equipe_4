@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<livreRecette>
+    <recette>
+        <type>repas</type>
+        <nom>Crêpes aux carottes et pommes de terre</nom>
+        <listeCategories>
+            <categorie>Végétarien</categorie>
+            <categorie>Congelable</categorie>
+        </listeCategories>
+        <tempsPreparation>10</tempsPreparation>
+        <tempsCuisson>10</tempsCuisson>
+        <listeIngredients>
+            <ingredient>
+                    <type>oeufs</type>
+                    <quantite>4</quantite>
+                    <unite></unite>
+            </ingredient>
+            <ingredient>
+                    <nom>carottes râpées finement</nom>
+                    <quantite>500</quantite>
+                    <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                    <nom>pommes de terre râpées finement</nom>
+                    <quantite>500</quantite>
+                    <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                    <nom>oignons râpées finement</nom>
+                    <quantite>15</quantite>
+                    <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                    <nom>farine de blé entier</nom>
+                    <quantite>30</quantite>
+                    <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                    <nom>poudre à pâte</nom>
+                    <quantite>2</quantite>
+                    <unite>ml</unite>
+            </ingredient>
+        </listeIngredients>	
+        <preparation>
+            <etape no="1">
+                    <description>Battre les œufs dans un grand bol. Incorporer les carottes, les pommes de terre, les oignons, la farine, le poivre et la poudre à pâte. Bien mélanger.</description>
+            </etape>
+            <etape no="2">
+                    <description>Vaporiser légèrement une plaque chauffante ou une poêle antiadhésive d’huile à cuisson. Faire chauffer à feu moyen. Verser 125 mL (1/2 tasse) du mélange sur la plaque chaude. 
+                    Cuire pendant deux minutes ou jusqu’à ce que la crêpe soit dorée. Retourner la crêpe et cuire une autre minute jusqu’à ce qu’elle soit dorée. Répéter avec le reste du mélange.</description>
+            </etape>
+        </preparation>
+    </recette>
+</livreRecette>
+		
