@@ -11,45 +11,274 @@
         <tempsCuisson>10</tempsCuisson>
         <listeIngredients>
             <ingredient>
-                    <type>oeufs</type>
-                    <quantite>4</quantite>
-                    <unite></unite>
+                <type>oeufs</type>
+                <quantite>4</quantite>
+                <unite></unite>
             </ingredient>
             <ingredient>
-                    <nom>carottes râpées finement</nom>
-                    <quantite>500</quantite>
-                    <unite>ml</unite>
+                <nom>carottes râpées finement</nom>
+                <quantite>500</quantite>
+                <unite>ml</unite>
             </ingredient>
             <ingredient>
-                    <nom>pommes de terre râpées finement</nom>
-                    <quantite>500</quantite>
-                    <unite>ml</unite>
+                <nom>pommes de terre râpées finement</nom>
+                <quantite>500</quantite>
+                <unite>ml</unite>
             </ingredient>
             <ingredient>
-                    <nom>oignons râpées finement</nom>
-                    <quantite>15</quantite>
-                    <unite>ml</unite>
+                <nom>oignons râpées finement</nom>
+                <quantite>15</quantite>
+                <unite>ml</unite>
             </ingredient>
             <ingredient>
-                    <nom>farine de blé entier</nom>
-                    <quantite>30</quantite>
-                    <unite>ml</unite>
+                <nom>farine de blé entier</nom>
+                <quantite>30</quantite>
+                <unite>ml</unite>
             </ingredient>
             <ingredient>
-                    <nom>poudre à pâte</nom>
-                    <quantite>2</quantite>
-                    <unite>ml</unite>
+                <nom>poudre à pâte</nom>
+                <quantite>2</quantite>
+                <unite>ml</unite>
             </ingredient>
         </listeIngredients>	
         <preparation>
             <etape no="1">
-                    <description>Battre les œufs dans un grand bol. Incorporer les carottes, les pommes de terre, les oignons, la farine, le poivre et la poudre à pâte. Bien mélanger.</description>
+                <description>Battre les œufs dans un grand bol. Incorporer les carottes, les pommes de terre, les oignons, la farine, le poivre et la poudre à pâte. Bien mélanger.</description>
             </etape>
             <etape no="2">
-                    <description>Vaporiser légèrement une plaque chauffante ou une poêle antiadhésive d’huile à cuisson. Faire chauffer à feu moyen. Verser 125 mL (1/2 tasse) du mélange sur la plaque chaude. 
-                    Cuire pendant deux minutes ou jusqu’à ce que la crêpe soit dorée. Retourner la crêpe et cuire une autre minute jusqu’à ce qu’elle soit dorée. Répéter avec le reste du mélange.</description>
+                <description>Vaporiser légèrement une plaque chauffante ou une poêle antiadhésive d’huile à cuisson. Faire chauffer à feu moyen. Verser 125 mL (1/2 tasse) du mélange sur la plaque chaude. 
+                Cuire pendant deux minutes ou jusqu’à ce que la crêpe soit dorée. Retourner la crêpe et cuire une autre minute jusqu’à ce qu’elle soit dorée. Répéter avec le reste du mélange.</description>
             </etape>
         </preparation>
     </recette>
+	
+	<recette>
+        <type>repas</type>
+        <nom>Rôtie au brocoli gratinée</nom>
+        <listeCategories>
+            <categorie>Végétarien</categorie>
+        </listeCategories>
+        <tempsPreparation>7</tempsPreparation>
+        <tempsCuisson>5</tempsCuisson>
+        <listeIngredients>
+            <ingredient>
+                <type>brocoli surgelé</type>
+                <quantite>2</quantite>
+                <unite>tasse</unite>
+            </ingredient>
+            <ingredient>
+                <nom>tranches de pain à grains entiers</nom>
+                <quantite>2</quantite>
+				<unite></unite>
+            </ingredient>
+            <ingredient>
+                <nom>flocons de piment rouge</nom>
+                <quantite>1</quantite>
+                <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                <nom>poudre d’ail</nom>
+                <quantite>2</quantite>
+                <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                <nom>cheddar léger râpé</nom>
+                <quantite>60</quantite>
+                <unite>ml</unite>
+            </ingredient>
+        </listeIngredients>	
+        <preparation>
+            <etape no="1">
+                <description>Préchauffer le four à 400 ̊F. Placer le brocoli surgelé dans un bol allant au four à micro-ondes, couvrir avec une assiette et cuire au four à micro-ondes à puissance maximale
+				pendant environ 5 minutes. Laisser refroidir légèrement, puis écraser grossièrement à la fourchette. Ajouter les flocons de piment et l'ail.</description>
+            </etape>
+            <etape no="2">
+                <description>Griller légèrement le pain au four ou au grille-pain. Déposer la rôtie sur une plaque à pâtisseries. Étaler le mélange de purée de brocoli sur chaque tranche et saupoudrer 
+				uniformément le cheddar râpé sur chaque tranche.</description>
+            </etape>
+			<etape no="3">
+                <description>Faire cuire au four jusqu’à ce que le fromage soit fondu et doré, environ 5 minutes.</description>
+            </etape>
+        </preparation>
+    </recette>
+	
+	<recette>
+        <type>repas</type>
+        <nom>Soupe minestrone copieuse</nom>
+        <listeCategories>
+            <categorie>Végétarien</categorie>
+			<categorie>Congelable</categorie>
+        </listeCategories>
+        <tempsPreparation>10</tempsPreparation>
+        <tempsCuisson>40</tempsCuisson>
+        <listeIngredients>
+            <ingredient>
+                <type>bouillon de légumes sans sel ajouté</type>
+                <quantite>6</quantite>
+                <unite>tasse</unite>
+            </ingredient>
+            <ingredient>
+                <nom>chou haché</nom>
+                <quantite>4</quantite>
+                <unite>tasse</unite>
+            </ingredient>
+            <ingredient>
+                <nom>carottes coupées en dés</nom>
+                <quantite>3</quantite>
+                <unite>tasse</unite>
+            </ingredient>
+            <ingredient>
+                <nom>haricots blancs sans sel ajouté, égouttés et rincés</nom>
+                <quantite>540</quantite>
+                <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                <nom>tomates en dés sans sel ajouté ou de tomates en dés en purée</nom>
+                <quantite>796</quantite>
+                <unite>ml</unite>
+            </ingredient>
+			<ingredient>
+                <nom>poudre d’ail</nom>
+                <quantite>2</quantite>
+                <unite>ml</unite>
+            </ingredient>
+        </listeIngredients>	
+        <preparation>
+            <etape no="1">
+                <description>Allumer la cuisinière à feu vif. Verser le bouillon de légumes dans une grande casserole et porter à ébullition.</description>
+            </etape>
+            <etape no="2">
+                <description>Baisser le feu à moyen. Ajouter le chou haché et les carottes en dés. Couvrir et laisser mijoter jusqu’à ce que les légumes soient tendres, c’est-à-dire environ 35 minutes.</description>
+            </etape>
+			<etape no="3">
+                <description>Incorporer les haricots, les tomates en dés et la poudre d’ail. Poivrer au goût. Couvrir et laisser cuire 5 minutes de plus.</description>
+            </etape>
+			<etape no="4">
+                <description>Servir dans des bols.</description>
+            </etape>
+        </preparation>
+    </recette>
+	
+	<recette>
+        <type>repas</type>
+        <nom>Mujadarrah</nom>
+        <listeCategories>
+            <categorie>Végétarien</categorie>
+			<categorie>Congelable</categorie>
+        </listeCategories>
+        <tempsPreparation>5</tempsPreparation>
+        <tempsCuisson>20</tempsCuisson>
+        <listeIngredients>
+            <ingredient>
+                <type>huile d’olive</type>
+                <quantite>30</quantite>
+                <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                <nom>oignons moyens tranchés finement</nom>
+                <quantite>3</quantite>
+                <unite></unite>
+            </ingredient>
+            <ingredient>
+                <nom>cumin moulu</nom>
+                <quantite>5</quantite>
+                <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                <nom>riz brun ou sauvage cuit</nom>
+                <quantite>175</quantite>
+                <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                <nom>lentilles à teneur réduite en sodium, égouttées et rincées</nom>
+                <quantite>250</quantite>
+                <unite>ml</unite>
+            </ingredient>
+        </listeIngredients>	
+        <preparation>
+            <etape no="1">
+                <description>Faire chauffer l'huile dans une casserole à feu moyen-vif. Ajouter les oignons et faire cuire jusqu'à ce qu'ils deviennent brun caramel foncé, en remuant fréquemment. 
+				a prendra environ 15 minutes. Réserver la moitié des oignons dans un bol (pour la garniture ultérieurement). Saupoudrer le cumin moulu et faire cuire environ 1 minute de plus.</description>
+            </etape>
+            <etape no="2">
+                <description>Ajouter le riz cuit aux oignons et remuer fréquemment pendant 3 minutes. Incorporer les lentilles et faire cuire 2 minutes de plus.</description>
+            </etape>
+			<etape no="3">
+                <description>Servir le riz et les lentilles nappés des oignons caramélisés réservés.</description>
+            </etape>
+        </preparation>
+    </recette>
+	
+	<recette>
+        <type>repas</type>
+        <nom>Roulé à la salade de thon à apporter</nom>
+        <listeCategories>
+            <categorie>Sans cuisson</categorie>
+        </listeCategories>
+        <tempsPreparation>10</tempsPreparation>
+        <tempsCuisson>0</tempsCuisson>
+        <listeIngredients>
+            <ingredient>
+                <type>thon pâle émietté dans l’eau, égoutté</type>
+                <quantite>1</quantite>
+                <unite>boîte</unite>
+            </ingredient>
+            <ingredient>
+                <nom>mayonnaise</nom>
+                <quantite>15</quantite>
+                <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                <nom>moutarde jaune</nom>
+                <quantite>5</quantite>
+                <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                <nom>jus de citron</nom>
+                <quantite>5</quantite>
+                <unite>ml</unite>
+            </ingredient>
+            <ingredient>
+                <nom>céleri hachée finement</nom>
+                <quantite>1</quantite>
+                <unite>branche</unite>
+            </ingredient>
+			<ingredient>
+                <nom>poivrons verts hachés finement</nom>
+                <quantite>60</quantite>
+                <unite>ml</unite>
+            </ingredient>
+			<ingredient>
+                <nom>poivre noir</nom>
+                <quantite>2,5</quantite>
+                <unite>ml</unite>
+            </ingredient>
+			<ingredient>
+                <nom>laitue romaine lavée et essorée</nom>
+                <quantite>2</quantite>
+                <unite>feuilles</unite>
+            </ingredient>
+			<ingredient>
+                <nom>tortillas de grains entiers</nom>
+                <quantite>2</quantite>
+                <unite></unite>
+            </ingredient>
+        </listeIngredients>	
+        <preparation>
+            <etape no="1">
+                <description>Dans un bol de taille moyenne, à l’aide d’une fourchette, combinez le thon, la mayonnaise, la moutarde et le jus de citron.</description>
+            </etape>
+            <etape no="2">
+                <description>Ajoutez le céleri, les piments verts et le poivre noir au mélange de thon et mélangez bien.</description>
+            </etape>
+			<etape no="3">
+                <description>Placez 1 feuille de laitue sur chaque tortilla.</description>
+            </etape>
+			<etape no="4">
+                <description>Déposez à la cuillère la moitié de la préparation de thon dans chaque tortilla et roulez.</description>
+            </etape>
+        </preparation>
+    </recette>
+	
 </livreRecette>
 		
